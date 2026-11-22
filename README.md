@@ -9,10 +9,30 @@ B.Tech CSE(AI/ML)
 💬 Ask me about: python, getting started with ML</br>
 
 
-## My GitHub Stats
+## My github stats
+# 💻 Sneha's GitHub Dashboard
 
-![GitHub 
-Stats](https://github-readme-stats.vercel.app/api?username=DevSnehasingh&show_icons=true&theme=radical)
+<h2 align="center">✨ My GitHub Stats ✨</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSnehasingh&show_icons=true&theme=tokyonight" />
+</p>
+
+<h2 align="center">🚀 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSnehasingh&layout=compact&theme=tokyonight" />
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevSnehasingh&theme=tokyonight" />
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSnehasingh&theme=tokyo-night" width="100%"/>
 
 
 # 💻 Tech Stack:
